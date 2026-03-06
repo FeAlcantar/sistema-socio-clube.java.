@@ -59,10 +59,6 @@ public class Main {
                     break;
 
                 case 4:
-                    System.out.println("Encerrando sistema...");
-                    break;
-
-                case 5:
                     System.out.println("Digite o CPF do Sócio: ");
                     String cpfBusca = scanner.nextLine();
 
@@ -70,11 +66,15 @@ public class Main {
 
                     break;
 
+                 case 5:
+                    System.out.println("Encerrando sistema...");
+                    break;
+                    
                 default:
                     System.out.println("Opção inválida");
             }
 
-        } while (opcao != 4);
+        } while (opcao != 5);
 
         scanner.close();
     }
