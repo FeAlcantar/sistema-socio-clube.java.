@@ -6,7 +6,7 @@ O projeto simula um sistema simples utilizado por clubes para controle de associ
 
 ---
 
-## Funcionalidades
+ Funcionalidades:
 
 - Cadastro de sócios
 - Listagem de sócios cadastrados
@@ -16,7 +16,7 @@ O projeto simula um sistema simples utilizado por clubes para controle de associ
 
 ---
 
-## Tecnologias utilizadas
+ Tecnologias utilizadas:
 
 - Java
 - Programação Orientada a Objetos (POO)
@@ -30,9 +30,9 @@ O projeto simula um sistema simples utilizado por clubes para controle de associ
 
 
 src
-├── Main.java
-├── Socio.java
-└── SistemaSocios.java
+- Main.java
+- Socio.java
+- SistemaSocios.java
 
 
 ---
@@ -41,10 +41,7 @@ src
 
 1. Clone este repositório
 2. Abra o projeto no IntelliJ IDEA
-3. Execute a classe:
-
-
-Main.java
+3. Execute a classe: Main.java
 
 
 O sistema abrirá um menu no terminal permitindo gerenciar os sócios.
