@@ -13,8 +13,10 @@ O projeto simula um sistema simples utilizado por clubes para controle de associ
 - Busca de sócio por CPF
 - Remoção de sócio
 - Menu interativo no terminal
+  
+---
 
- Tecnologias utilizadas:
+  O que foi utilizado:
 
 - Java
 - Programação Orientada a Objetos (POO)
@@ -26,13 +28,12 @@ O projeto simula um sistema simples utilizado por clubes para controle de associ
 
  Estrutura do Projeto
 
-
 src:
 - Main.java
 - Socio.java
 - SistemaSocios.java
 
-
+---
 
  Como executar o projeto
 
