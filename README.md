@@ -14,8 +14,6 @@ O projeto simula um sistema simples utilizado por clubes para controle de associ
 - Remoção de sócio
 - Menu interativo no terminal
 
----
-
  Tecnologias utilizadas:
 
 - Java
@@ -26,18 +24,17 @@ O projeto simula um sistema simples utilizado por clubes para controle de associ
 
 ---
 
-## Estrutura do Projeto
+ Estrutura do Projeto
 
 
-src
+src:
 - Main.java
 - Socio.java
 - SistemaSocios.java
 
 
----
 
-## Como executar o projeto
+ Como executar o projeto
 
 1. Clone este repositório
 2. Abra o projeto no IntelliJ IDEA
@@ -46,9 +43,8 @@ src
 
 O sistema abrirá um menu no terminal permitindo gerenciar os sócios.
 
----
 
-## Objetivo do Projeto
+ Objetivo do Projeto
 
 Este projeto foi desenvolvido como prática de **Programação Orientada a Objetos em Java**, simulando um sistema simples de gerenciamento de sócios de um clube esportivo.
 
